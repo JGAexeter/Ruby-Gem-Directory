@@ -1,4 +1,5 @@
-echo "# Ruby-Gem-Directory" >> README.md
+.github/workflows/install-rubygems.yml
+-> echo "# Ruby-Gem-Directory" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
